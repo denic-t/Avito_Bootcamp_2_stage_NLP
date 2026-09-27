@@ -1,0 +1,13 @@
+numpy==2.3.5
+pandas==2.3.3
+pyarrow==23.0.1
+scipy==1.16.3
+scikit-learn==1.9.0
+pymorphy3==2.0.6
+pymorphy3-dicts-ru==2.4.417150.4580142
+lightgbm==4.7.0
+torch==2.12.0
+transformers==5.16.1
+sentence-transformers==6.1.0
+huggingface_hub==1.29.0
+jupyter
