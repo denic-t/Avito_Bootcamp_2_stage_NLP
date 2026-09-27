@@ -6,6 +6,7 @@ scikit-learn==1.9.0
 pymorphy3==2.0.6
 pymorphy3-dicts-ru==2.4.417150.4580142
 lightgbm==4.7.0
+catboost==1.2.10
 torch==2.12.0
 transformers==5.16.1
 sentence-transformers==6.1.0
